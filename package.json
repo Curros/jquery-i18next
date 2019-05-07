@@ -21,6 +21,9 @@
     "type": "git",
     "url": "https://github.com/i18next/jquery-i18next.git"
   },
+  "peerDependencies": {
+    "i18next": "^15.1.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "6.11.4",
